@@ -1,0 +1,299 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    height: 100px;
+    width: 100%;
+    background-color:  rgb(34, 55, 74);
+    padding: 40px 80px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    display: inline-block;
+   float: right;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 12px;
+
+    
+}
+.logo{
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 0.8px;
+}
+
+.billboard{
+    background-color: rgb(0, 196, 159);
+    text-align: center;
+    color: white;
+    height: 350px;
+    
+}
+
+.billboard h1{
+    font-size: 30px;
+    
+}
+
+.billboard p{
+    font-size: 10px;
+padding-top: 5px;
+padding-bottom: 80px;
+
+    
+    
+}
+
+h2{
+    text-align: center;
+    padding-top: 40px;
+    
+
+}
+
+.me{
+    
+    text-align: center;
+
+}
+
+.pic{
+    text-align: center;
+    margin: 5px;
+    letter-spacing: 0px;
+}
+
+.you{
+    letter-spacing: 0px;
+    margin: 5px;
+    text-align: center;
+}
+
+.sha{
+    background-color: rgb(0, 196, 159);
+    text-align: center;
+    height: 300px;
+    color: white;
+    
+}
+
+.sha p{
+    font-size: 10px;
+}
+
+ .sha h2{
+    margin-top: 40px;
+    
+}
+
+.main{
+    text-align: center;
+}
+
+.nin p{
+    
+    float: left;
+    padding-left: 535px;
+    margin-top: 8px;
+    font-size: 10px;
+    text-align: left;
+    
+}
+
+.nina p{
+    
+    float: right;
+    padding-right: 535px;
+    margin-top: 8px;
+    font-size: 10px;
+   text-align: left;
+
+}
+
+.btn{
+    margin-top: 60px;
+    border: 2px solid white;
+    background-color: rgb(0, 196, 159);
+    color: white;
+    padding: 10px; 
+    border-radius: 8px; 
+  margin-bottom: 50px;
+
+}
+.button {
+     margin-right: 650px;
+     margin-left: 650px;
+    
+    
+}
+
+
+.size{
+    background-color: rgb(0, 196, 159);
+    border: none;
+    padding: 10px  30px;
+    color: white;
+    text-align: left;
+    border-radius: 6px;
+
+}
+
+.text{
+    text-align: left;
+    padding-left: 480px;
+    color: gray;
+    margin-top: 30px;
+}
+
+hr{
+    color: 100px solid silver;
+    margin-right: 40%;
+    margin-bottom: 10px;
+}
+
+
+.size{
+    background-color: rgb(0, 196, 159);
+    border: none; 
+    padding: 10px  30px;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}  
+
+
+.ema{
+    padding-bottom:20px;
+    color: white
+}
+
+
+.icon{
+   letter-spacing: 20px;
+   
+}
+
+.footer p{
+    color: white;
+    font-size: 10px;
+    
+}
+
+.icn{
+    border-radius: 100%;
+   border: 1px solid white;
+   width: 40px;
+   padding: 8px;
+   letter-spacing: 5px;
+}
+
+
+
+.footer h4{
+    font-size: 15px;
+    
+}
+
+
+.copy{
+   text-align: center; 
+   color: white;
+   background-color: rgb(36, 45, 52);
+   font-size: 12px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   height: 50px;
+   
+}
+
+
+.footer {
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    background-color: rgb(41, 61, 82);
+    padding-left: 320px;
+    padding-top: 50px;
+    display: inline-flex; 
+    }
+    .fot{
+    text-align: center;
+    padding-top: 0px;
+    margin-left: 40px;
+    margin-right: 40px; 
+    } 
+    strong{
+    color: rgb(26, 188, 156);
+    }
+    .mam{
+    margin-bottom: 20px;
+    color: white
+    }
+    .tab{
+    padding-bottom: 20px;
+    color: white;
+    align-items: center;
+    }
+    .ema{
+    padding-bottom:20px;
+    color: white
+    }
+    .icon{
+    letter-spacing: 5px
+    }
+    .footer p{
+    color: white;
+    }
+    
+    .foot{
+    float: left;
+    margin-left: 100px;
+    }
+    .foote{
+    float: right;
+    margin-right: 100px;
+    }
+    .rar{
+    text-align: center; 
+    font-size:16px ;
+    font-weight: lighter;
+    word-spacing: 0,5px;
+    letter-spacing: 0,2px;
+    margin-top: 5px;
+    }
+    footer h3{
+    font-size: 20px;
+    font-weight: bold;
+    
+    }
+    
+    .icn{
+    display: inline;
+    padding-top: 20px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 100%;
+    width: 40px;
+    padding: 8px;
+    letter-spacing: 5px;
+    }
+    .copy{
+    text-align: center;
+    color: white;
+    background-color: rgb(24, 37, 48);
+    font-size: 13px;
+    padding-top: 15px;
+    height: 70px;
+    }
+    
